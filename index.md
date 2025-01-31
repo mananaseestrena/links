@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog.
+title: Bienvenido a Mañana se estrena!
 ---
 
